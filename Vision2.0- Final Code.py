@@ -507,8 +507,7 @@ while i<1e5:
     elif(grid==76):
         
         n1, n2, n3, home = 75, 57, 58, 49
-        
-        
+               
     print("-"*20)
     
     val = bot.env.roll_dice() # returns the shape to be visited by our bot next
