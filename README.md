@@ -1,7 +1,7 @@
 <html>
 <body>
     
-<h1 align=center> Autonomous Path Mapping Bot - Vision 2.0 </h1>
+<h1 align=center> Autonomous Path Mapping Bot - Vision'20 </h1>
     
 <h4 align=center><em>Computer Vision based event organised by Robotics Club of IIT (BHU) Varanasi</em></h4><br>
     
